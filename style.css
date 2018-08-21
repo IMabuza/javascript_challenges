@@ -1,0 +1,37 @@
+body{
+  font-family: monospace;
+}
+
+.container{
+  padding: 0 50px 0 50px;
+}
+
+.graybg{
+  background-color: gray;
+  color: black;
+  padding: 12px;
+}
+
+
+.graybg blockquote{
+  background: purple;
+  color: white;
+  padding: 12px;
+}
+
+.container h1{
+  color: purple;
+  ;
+}
+
+.purplebg{
+  background-color: purple;
+  color: white;
+  padding: 12px
+}
+
+.purplebg blockquote{
+  background: white;
+  color: black;
+  padding: 12px;
+}
