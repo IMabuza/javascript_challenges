@@ -1,1 +1,1 @@
-# umuziJSchallengesv1
+# 6 JavaScript Challenges
